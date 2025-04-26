@@ -1,2 +1,2 @@
 # Tab-cleaner
-Hi! Are you tired of having thousands of tabs open on Chrome and feeling overwhelmed? This extension will help you clean up your tabs and keep only the ones you actually want.
+Your privacy is of paramount importance to us. This extension does not collect, store, or share any personal data. All information, such as your selected tab preferences, is stored locally on your device and is not transmitted to any server.
